@@ -4,5 +4,6 @@ public class first_prog {
 
        
         System.out.println("Hello Java");
+        System.out.println("Second line of Java");
     }
 }
